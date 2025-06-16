@@ -1,4 +1,6 @@
-# NumPy Exercises
+# NumPy Exercises Chinese Edition
+
+NumPy Exercises的中文版本，以下为原仓库简介
 
 In numerical computing in python, NumPy is essential. I'm writing simple (a few lines for each problem) but hopefully helpful exercises based on each of numpy's functions. The outline will be as follows.
 
